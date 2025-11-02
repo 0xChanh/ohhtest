@@ -1,4 +1,3 @@
-Redz Hub Source
 
 repeat task.wait()until game:IsLoaded()
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
